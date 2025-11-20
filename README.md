@@ -8,29 +8,19 @@ Diseñar una estructura organizada de carpetas y archivos dentro del repositorio
 Este repositorio contiene tres elementos principales: una carpeta llamada 'datos_ventas' con el archivo 'ventas.csv', otra carpeta llamada 'datos_clientes' con el archivo 'clientes.csv', y un archivo README.md que documenta el propósito y estructura del proyecto.
 Descripción de datos_ventas.csv El archivo 'ventas.csv' contiene registros simulados de ventas, incluyendo campos como fecha, producto, cantidad, precio unitario y total. Sirve para practicar la organización de datos tabulares en formato CSV.
 Descripción de datos_clientes.csv El archivo 'clientes.csv' representa una base de datos ficticia de clientes, con campos como ID, nombre, correo electrónico, ciudad y fecha de registro. Permite ejercitar la creación de archivos estructurados y útiles para sistemas de gestión.
+
 # Datos_ventas-
-fecha,producto,cantidad,precio_unitario,total
-2025-09-10,Smartphone,3,320.00,960.00
-2025-09-11,Router WiFi,2,60.00,120.00
-2025-09-12,Memoria USB 64GB,10,8.00,80.00
-2025-09-13,Altavoz Bluetooth,4,25.00,100.00
-2025-09-14,Smartwatch,1,150.00,150.00
 
  Este archivo demuestra cómo organizar datos estructurados en formato CSV.
  Al estar en un repositorio público de GitHub, permite compartir información,
  colaborar con otros usuarios y mantener un historial de cambios accesible y transparente.
- 
  Este archivo forma parte de una práctica de control de versiones con GitHub.
  Su objetivo es simular una base de datos de clientes para un sistema de ventas.
  Al incluirlo en un repositorio público, se aprende a organizar datos, estructurar carpetas
  y utilizar GitHub como herramienta de colaboración y documentación técnica.
+
 # Datos_clientes-
 id,nombre,email,ciudad,fecha_registro
-1,Lucía Herrera,lucia.herrera@example.com,Quito,2025-08-10
-2,Marco Rivas,marco.rivas@example.com,Guayaquil,2025-08-12
-3,Daniela Gómez,daniela.gomez@example.com,Cuenca,2025-08-13
-4,Esteban Torres,esteban.torres@example.com,Ambato,2025-08-14
-5,Valeria Cedeño,valeria.cedeno@example.com,Loja,2025-08-15
 
 Este archivo demuestra cómo almacenar información estructurada de clientes en formato CSV.
 Al estar alojado en GitHub, permite mantener un historial de cambios, facilitar revisiones
