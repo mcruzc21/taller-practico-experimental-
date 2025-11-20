@@ -1,7 +1,7 @@
 # Mi-primer-repositoro-
 "seccion","detalle"
 # Objetivo-
-,"Aprender a crear una cuenta personal en GitHub, entendiendo el proceso de registro, verificación y acceso a la plataforma."
+"Aprender a crear una cuenta personal en GitHub, entendiendo el proceso de registro, verificación y acceso a la plataforma."
 ","Configurar un repositorio público correctamente, incluyendo nombre, descripción, visibilidad y archivo README para documentación inicial."
 ","Diseñar una estructura organizada de carpetas y archivos dentro del repositorio, utilizando el formato CSV para representar datos simulados de ventas y clientes."
 #Contenido del repositorio
@@ -19,7 +19,7 @@ fecha,producto,cantidad,precio_unitario,total
  Este archivo demuestra cómo organizar datos estructurados en formato CSV.
  Al estar en un repositorio público de GitHub, permite compartir información,
  colaborar con otros usuarios y mantener un historial de cambios accesible y transparente.
-"Habilidad 
+# Habilidades- 
 ","Manejo básico de GitHub como plataforma de control de versiones, incluyendo creación de repositorios y archivos."
 ","Organización lógica de carpetas y archivos en un entorno digital, siguiendo buenas prácticas de estructura y nomenclatura."
 ","Uso del formato CSV para representar datos estructurados, aplicable en contextos reales como ventas, clientes o inventarios."
