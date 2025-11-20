@@ -8,7 +8,7 @@ Diseñar una estructura organizada de carpetas y archivos dentro del repositorio
 Este repositorio contiene tres elementos principales: una carpeta llamada 'datos_ventas' con el archivo 'ventas.csv', otra carpeta llamada 'datos_clientes' con el archivo 'clientes.csv', y un archivo README.md que documenta el propósito y estructura del proyecto.
 Descripción de datos_ventas.csv El archivo 'ventas.csv' contiene registros simulados de ventas, incluyendo campos como fecha, producto, cantidad, precio unitario y total. Sirve para practicar la organización de datos tabulares en formato CSV.
 Descripción de datos_clientes.csv El archivo 'clientes.csv' representa una base de datos ficticia de clientes, con campos como ID, nombre, correo electrónico, ciudad y fecha de registro. Permite ejercitar la creación de archivos estructurados y útiles para sistemas de gestión.
-
+#Datos_ventas-
 fecha,producto,cantidad,precio_unitario,total
 2025-09-10,Smartphone,3,320.00,960.00
 2025-09-11,Router WiFi,2,60.00,120.00
