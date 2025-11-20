@@ -1,7 +1,7 @@
 # Mi-primer-repositoro-
 "seccion","detalle"
-# Objetivo
-","Aprender a crear una cuenta personal en GitHub, entendiendo el proceso de registro, verificación y acceso a la plataforma."
+# Objetivo-
+,"Aprender a crear una cuenta personal en GitHub, entendiendo el proceso de registro, verificación y acceso a la plataforma."
 ","Configurar un repositorio público correctamente, incluyendo nombre, descripción, visibilidad y archivo README para documentación inicial."
 ","Diseñar una estructura organizada de carpetas y archivos dentro del repositorio, utilizando el formato CSV para representar datos simulados de ventas y clientes."
 #Contenido del repositorio
