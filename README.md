@@ -19,6 +19,23 @@ fecha,producto,cantidad,precio_unitario,total
  Este archivo demuestra cómo organizar datos estructurados en formato CSV.
  Al estar en un repositorio público de GitHub, permite compartir información,
  colaborar con otros usuarios y mantener un historial de cambios accesible y transparente.
+ 
+ Este archivo forma parte de una práctica de control de versiones con GitHub.
+ Su objetivo es simular una base de datos de clientes para un sistema de ventas.
+ Al incluirlo en un repositorio público, se aprende a organizar datos, estructurar carpetas
+ y utilizar GitHub como herramienta de colaboración y documentación técnica.
+# Datos_clientes-
+id,nombre,email,ciudad,fecha_registro
+1,Lucía Herrera,lucia.herrera@example.com,Quito,2025-08-10
+2,Marco Rivas,marco.rivas@example.com,Guayaquil,2025-08-12
+3,Daniela Gómez,daniela.gomez@example.com,Cuenca,2025-08-13
+4,Esteban Torres,esteban.torres@example.com,Ambato,2025-08-14
+5,Valeria Cedeño,valeria.cedeno@example.com,Loja,2025-08-15
+
+Este archivo demuestra cómo almacenar información estructurada de clientes en formato CSV.
+Al estar alojado en GitHub, permite mantener un historial de cambios, facilitar revisiones
+y compartir datos de forma clara y ordenada en proyectos colaborativos.
+
 # Habilidades- 
 Manejo básico de GitHub como plataforma de control de versiones, incluyendo creación de repositorios y archivos.
 Organización lógica de carpetas y archivos en un entorno digital, siguiendo buenas prácticas de estructura y nomenclatura.
